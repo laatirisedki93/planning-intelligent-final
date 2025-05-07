@@ -1,0 +1,1 @@
+// Page principale Next.js avec appel du composant InterventionPlanner

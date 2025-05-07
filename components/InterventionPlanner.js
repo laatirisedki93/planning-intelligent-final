@@ -1,0 +1,1 @@
+// Code final du composant principal (inclus dans la vraie version)
